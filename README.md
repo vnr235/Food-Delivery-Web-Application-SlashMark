@@ -35,8 +35,8 @@ This is a full-stack web application where users can order food and make payment
 1.Clone the repository:
 
 ```bash
-  git clone https://github.com/your-username/food-ordering-app.git
-    cd food-ordering-app
+  git clone https://github.com/vnr235/Food-Delivery-Web-Application-SlashMark.git
+    cd Food-Delivery-Web-Application-SlashMark
 ```
 2.Install frontend dependencies:
 
